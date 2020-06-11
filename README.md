@@ -2,7 +2,7 @@
 
 The 12th Astronaut Github Repository
 
-![Alt text](/Pictures/holoWrist.PNG?raw=true "UI Concept")
+![Alt text](/Pictures/SEV_hologram.PNG?raw=true "UI Concept")
 
 The objective of the SUITS competition is to develop a user interface, utilizing the Microsoft HoloLens for augmented reality (AR), that would enable astronauts to finish a task more efficiently by providing a set of instructions via the display environment. The team has until April to develop a system, and then present their prototypes to a group of testers at Johnson Space Center in Houston.
 
